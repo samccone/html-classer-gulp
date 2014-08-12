@@ -1,0 +1,8 @@
+{
+  "name": "html-classer-gulp",
+  "dependencies": {
+    "through2": "^0.6.1",
+    "html-classer": "0.0.2",
+    "gulp-util": "^3.0.0"
+  }
+}
