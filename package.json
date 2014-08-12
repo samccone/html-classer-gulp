@@ -1,5 +1,6 @@
 {
   "name": "html-classer-gulp",
+  "version": "0.0.1",
   "dependencies": {
     "through2": "^0.6.1",
     "html-classer": "0.0.2",
